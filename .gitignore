@@ -1,0 +1,14 @@
+out/
+cache/
+broadcast/
+agent-tools/
+__pycache__/
+*.pyc
+.anvil.log
+.env
+.env.*
+.secrets/
+*.keystore
+throwaway*.json
+**/private-key*
+**/*privatekey*
